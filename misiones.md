@@ -5,3 +5,4 @@
 3. Buscar nuevos miembros para la liga
 4. Necesitamos más comida
 5. Agregamos mas misiones
+6. Buscar a Pinguino
