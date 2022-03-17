@@ -6,3 +6,4 @@
 4. Necesitamos más comida
 5. Agregamos mas misiones
 6. Buscar a Pinguino
+7. Buscar al espantapajaros
