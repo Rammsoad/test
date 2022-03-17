@@ -8,3 +8,5 @@
 * Robin
 * Thor
 * Nightwolf
+* Ironman
+* Capitán América
