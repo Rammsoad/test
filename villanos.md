@@ -8,3 +8,4 @@
 5. Loki
 6. Pinguino
 7. Espantapajaros
+8. Villano nuevo
