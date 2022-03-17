@@ -9,3 +9,5 @@
 6. Pinguino
 7. Espantapajaros
 8. Villano nuevo
+9. Thanos
+10. Duende verde
