@@ -10,3 +10,4 @@
 * Nightwolf
 * Ironman
 * Capitán América
+* Hulk
