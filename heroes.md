@@ -11,3 +11,4 @@
 * Ironman
 * Capitán América
 * Hulk
+* Birdman
