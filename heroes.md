@@ -12,3 +12,4 @@
 * Capitán América
 * Hulk
 * Birdman
+* Doctor Strange
