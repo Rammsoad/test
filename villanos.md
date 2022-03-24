@@ -10,6 +10,6 @@
 7. Espantapajaros
 8. Villano nuevo
 9. Thanos
-<<<<<<< Updated upstream
 10. Duende verde es la onda
 11. Magneto
+12. Sabretooth
