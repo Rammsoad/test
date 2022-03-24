@@ -13,3 +13,4 @@
 * Hulk
 * Birdman
 * Doctor Strange
+* Wolverine
