@@ -1,5 +1,5 @@
 # Heroes
-* Spiderman
+
 * Superman
 * Batman
 * Aquaman
@@ -11,6 +11,3 @@
 * Ironman
 * Capitán América
 * Hulk
-* Birdman
-* Doctor Strange
-* Wolverine
