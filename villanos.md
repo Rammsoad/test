@@ -10,6 +10,4 @@
 7. Espantapajaros
 8. Villano nuevo
 9. Thanos
-10. Duende verde es la onda
-11. Magneto
-12. Sabretooth
+10. Duende verde

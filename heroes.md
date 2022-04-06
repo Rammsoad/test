@@ -1,5 +1,5 @@
 # Heroes
-* Spiderman
+
 * Superman
 * Batman
 * Aquaman
@@ -11,6 +11,5 @@
 * Ironman
 * Capitán América
 * Hulk
-* Birdman
-* Doctor Strange
-* Wolverine
+* Cherry pick change (from main)
+* Cherry pick change (from main new)
