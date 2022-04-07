@@ -8,3 +8,7 @@
 6. Buscar a Pinguino
 7. Buscar al espantapajaros
 8. Nueva misión
+9. hacer una nueva misión
+10. Borrar flash reverso
+11. mision nueva
+12. mision nueva 2
