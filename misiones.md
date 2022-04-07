@@ -9,3 +9,4 @@
 7. Buscar al espantapajaros
 8. Nueva misión
 9. hacer una nueva misión
+10. Borrar flash reverso
